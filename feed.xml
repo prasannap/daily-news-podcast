@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Daily News Brief</title>
+    <link>https://prasannap.github.io/daily-news-podcast</link>
+    <description>Your daily 5-minute news summary from CNN and Fox News.</description>
+    <language>en-us</language>
+    <itunes:author>Daily News Brief</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News"/>
+  <item>
+    <title>News Brief - May 5, 2026</title>
+    <description>Daily news summary for 2026-05-05</description>
+    <pubDate>Tue, 05 May 2026 10:57:18 +0000</pubDate>
+    <guid isPermaLink="false">2026-05-05</guid>
+    <enclosure url="https://prasannap.github.io/daily-news-podcast/episodes/2026-05-05.mp3" length="6138720" type="audio/mpeg"/>
+    <itunes:duration>306</itunes:duration>
+  </item>
+  </channel>
+</rss>
